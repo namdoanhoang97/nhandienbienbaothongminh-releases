@@ -1,8 +1,8 @@
 {
-  "versionCode": 317,
-  "versionName": "3.17-UPDATER-INSTALL-PERMISSION",
+  "versionCode": 318,
+  "versionName": "3.18-SIMPLE-SIGNAL-TIMING",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "dcc726006561065dc4dc5c395025766c0345f499797e9813c5a351f8e3f9b91d",
-  "releaseNotes": "Bản cập nhật 3.17-UPDATER-INSTALL-PERMISSION.",
+  "sha256": "6531abb598888f4e068a6f429c7d453073e2215fd4afc22318cf96239a792de9",
+  "releaseNotes": "Bản cập nhật 3.18-SIMPLE-SIGNAL-TIMING.",
   "mandatory": false
 }
