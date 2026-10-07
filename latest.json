@@ -1,8 +1,8 @@
 {
-  "versionCode": 319,
-  "versionName": "3.19-SIGNAL-TIMING-PERSISTENCE",
+  "versionCode": 322,
+  "versionName": "3.22-INDEPENDENT-SIGNAL-TIMING",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "8f37dc3f5237bb083a300ac09719d49afbb22e11408a6c33a13f78fced031ddd",
-  "releaseNotes": "Bản cập nhật 3.19-SIGNAL-TIMING-PERSISTENCE.",
+  "sha256": "bee32d38ac0f7cec823a8b2676f0a2dbe67499438e8c9cbbba6c0ee9747dd276",
+  "releaseNotes": "Bản cập nhật 3.22-INDEPENDENT-SIGNAL-TIMING.",
   "mandatory": false
 }
