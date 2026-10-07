@@ -1,8 +1,8 @@
 {
-  "versionCode": 316,
-  "versionName": "3.16-TRAFFIC-SIGNAL-SYNC-ENGINE",
+  "versionCode": 317,
+  "versionName": "3.17-UPDATER-INSTALL-PERMISSION",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "b28743b75aad6c7d025391060aaca9a856379273a94b1fc454f05102b4285480",
-  "releaseNotes": "Bản cập nhật 3.16-TRAFFIC-SIGNAL-SYNC-ENGINE.",
+  "sha256": "dcc726006561065dc4dc5c395025766c0345f499797e9813c5a351f8e3f9b91d",
+  "releaseNotes": "Bản cập nhật 3.17-UPDATER-INSTALL-PERMISSION.",
   "mandatory": false
 }
