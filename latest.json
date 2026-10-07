@@ -1,8 +1,8 @@
 {
-  "versionCode": 318,
-  "versionName": "3.18-SIMPLE-SIGNAL-TIMING",
+  "versionCode": 319,
+  "versionName": "3.19-SIGNAL-TIMING-PERSISTENCE",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "6531abb598888f4e068a6f429c7d453073e2215fd4afc22318cf96239a792de9",
-  "releaseNotes": "Bản cập nhật 3.18-SIMPLE-SIGNAL-TIMING.",
+  "sha256": "8f37dc3f5237bb083a300ac09719d49afbb22e11408a6c33a13f78fced031ddd",
+  "releaseNotes": "Bản cập nhật 3.19-SIGNAL-TIMING-PERSISTENCE.",
   "mandatory": false
 }
