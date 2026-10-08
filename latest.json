@@ -1,8 +1,8 @@
 {
-  "versionCode": 335,
-  "versionName": "3.35-SIGNAL-PHASE-AND-UPDATE-CACHE",
+  "versionCode": 336,
+  "versionName": "3.36-3D-CAR-SIGNAL-TIMING-PERSISTENCE",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "f41dbbb0f18d637ed9bd8c8c72deca535660c26a2927720d86dd1ee8193fe2ea",
-  "releaseNotes": "Bản cập nhật 3.35-SIGNAL-PHASE-AND-UPDATE-CACHE.",
+  "sha256": "03a1d1ed73c12130e76ba5d602a4222c32b2dabea4efd34b97d5b9aec2aecc21",
+  "releaseNotes": "Bản cập nhật 3.36-3D-CAR-SIGNAL-TIMING-PERSISTENCE.",
   "mandatory": false
 }
