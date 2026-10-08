@@ -1,8 +1,8 @@
 {
-  "versionCode": 342,
-  "versionName": "3.42-WME-PHONE-FIRST",
+  "versionCode": 343,
+  "versionName": "3.43-UPDATER-SOURCE-COMPARE",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "01b93d9ff7a5f44e2593d7abbe2902b823d0438505f2d72417d850aa317303b9",
-  "releaseNotes": "Bản cập nhật 3.42-WME-PHONE-FIRST.",
+  "sha256": "65d551b081d4ae94ef779d6e6b9a48a82a783f869dbdcabd01844daf2fca49db",
+  "releaseNotes": "Bản cập nhật 3.43-UPDATER-SOURCE-COMPARE.",
   "mandatory": false
 }
