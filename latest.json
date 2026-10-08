@@ -1,8 +1,8 @@
 {
-  "versionCode": 337,
-  "versionName": "3.37-WME-SETTINGS",
+  "versionCode": 338,
+  "versionName": "3.38-WME-ANDROID-BRIDGE",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "13889a72be7161acddd80790eef810a14de5fbe15809c36d81a8e84dcdc7e796",
-  "releaseNotes": "Bản cập nhật 3.37-WME-SETTINGS.",
+  "sha256": "9e448e6c73b8eb679910bea6940ed167dd72ba7bfd9178e25b29ffbbae5ee99a",
+  "releaseNotes": "Bản cập nhật 3.38-WME-ANDROID-BRIDGE.",
   "mandatory": false
 }
