@@ -1,8 +1,8 @@
 {
-  "versionCode": 336,
-  "versionName": "3.36-3D-CAR-SIGNAL-TIMING-PERSISTENCE",
+  "versionCode": 337,
+  "versionName": "3.37-WME-SETTINGS",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "5375b020e8e9714d33c44df1988cfa4f88e07b089b06bb9af575e9c4e854d289",
-  "releaseNotes": "Bản cập nhật 3.36-3D-CAR-SIGNAL-TIMING-PERSISTENCE.",
+  "sha256": "6ffb4b4571e68c0e21af32e75772fdfb6d564bc4c8745e62f5203d8587bb4a37",
+  "releaseNotes": "Bản cập nhật 3.37-WME-SETTINGS.",
   "mandatory": false
 }
