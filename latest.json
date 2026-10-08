@@ -1,8 +1,8 @@
 {
-  "versionCode": 330,
-  "versionName": "3.30-UPDATER-FIX",
+  "versionCode": 334,
+  "versionName": "3.34-TRAFFIC-LIGHT-FRAME-CLEAN",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "7739aa0258183fbd2d56ba0006475c899e071f9b7ab98f65b7521e804779b3bc",
-  "releaseNotes": "Bản cập nhật 3.30-UPDATER-FIX.",
+  "sha256": "986391a4c1c9323e69050e90b10da3fab4e0207059fa5ee7fa44440b29b4d7d9",
+  "releaseNotes": "Bản cập nhật 3.34-TRAFFIC-LIGHT-FRAME-CLEAN.",
   "mandatory": false
 }
