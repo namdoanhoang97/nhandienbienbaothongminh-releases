@@ -1,8 +1,8 @@
 {
-  "versionCode": 329,
-  "versionName": "3.29-TRAFFIC-LIGHT-CLEAN",
+  "versionCode": 330,
+  "versionName": "3.30-UPDATER-FIX",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "5d2bc5517affca8bcf5be8669faaebc9da51be96b3b00c9c0cf998962b7c1b7d",
-  "releaseNotes": "Bản cập nhật 3.29-TRAFFIC-LIGHT-CLEAN.",
+  "sha256": "7739aa0258183fbd2d56ba0006475c899e071f9b7ab98f65b7521e804779b3bc",
+  "releaseNotes": "Bản cập nhật 3.30-UPDATER-FIX.",
   "mandatory": false
 }
