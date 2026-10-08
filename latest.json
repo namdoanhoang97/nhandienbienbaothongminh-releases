@@ -1,8 +1,8 @@
 {
-  "versionCode": 338,
-  "versionName": "3.38-WME-ANDROID-BRIDGE",
+  "versionCode": 341,
+  "versionName": "3.41-WME-WEBVIEW-BLANK-FIX",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "08c633ecc724ea0776dd2f40ba43cad16114bf7edc099bbaaf55332afaa0180f",
-  "releaseNotes": "Bản cập nhật 3.38-WME-ANDROID-BRIDGE.",
+  "sha256": "36bb0b9d749dd8e5669af500d26fcc40d6f9cb8909a594f5127d5f02db17bc84",
+  "releaseNotes": "Bản cập nhật 3.41-WME-WEBVIEW-BLANK-FIX.",
   "mandatory": false
 }
