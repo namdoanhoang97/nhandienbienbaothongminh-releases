@@ -1,8 +1,8 @@
 {
-  "versionCode": 340,
-  "versionName": "3.40-WME-WEBVIEW-BLANK-FIX",
+  "versionCode": 341,
+  "versionName": "3.41-WME-WEBVIEW-BLANK-FIX",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "206472ba179d04fe59accb37e9252594c819cdea3efffc59727bfc643be35e2c",
-  "releaseNotes": "Bản cập nhật 3.40-WME-WEBVIEW-BLANK-FIX.",
+  "sha256": "d77b8ebb655c38439145390770010a2b163c0e0cabc84e260941acf6710783a4",
+  "releaseNotes": "Bản cập nhật 3.41-WME-WEBVIEW-BLANK-FIX.",
   "mandatory": false
 }
