@@ -1,8 +1,8 @@
 {
-  "versionCode": 343,
-  "versionName": "3.43-UPDATER-SOURCE-COMPARE",
+  "versionCode": 348,
+  "versionName": "3.48-BUILD-FIX",
   "apkUrl": "https://github.com/namdoanhoang97/nhandienbienbaothongminh-releases/releases/latest/download/app-release.apk",
-  "sha256": "b4b8470e1da64a0809b7175b35553eac04c3aca5e52b7a1343e3004fe3c6eef9",
-  "releaseNotes": "Bản cập nhật 3.43-UPDATER-SOURCE-COMPARE.",
+  "sha256": "691108da8e2b376b1b6fe2ba924baba953a9220a1bfbbba4e8db4d8616c28c4c",
+  "releaseNotes": "Bản cập nhật 3.48-BUILD-FIX.",
   "mandatory": false
 }
